@@ -4,7 +4,7 @@
 [![REACT](https://img.shields.io/static/v1?label=react&message=16.13.1&color=green)](https://www.npmjs.com/package/react/v/16.13.1)
 [![POPPERJS](https://img.shields.io/static/v1?label=popperjs&message=1.16.1&color=red)](https://www.npmjs.com/package/popper.js/v/1.16.1-lts)
 
-### [🌐 Website](https://skillgrow.netlify.app/)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174553724-4da5d190-ecc4-40aa-8f3a-fafa3ccfaca7.mp4) 
+### [🌐 Website](https://skillgrow.netlify.app/).
 
 # Skillgrow - Online Courses and learning app Frontend
 
