@@ -1,9 +1,3 @@
-
-
-https://user-images.githubusercontent.com/92365361/174553724-4da5d190-ecc4-40aa-8f3a-fafa3ccfaca7.mp4
-
-
-
 [![Version](https://img.shields.io/static/v1?label=version&message=0.1.0&color=blue)](https://semver.org/spec/v0.1.0.html)
 [![BOOTSTRAP](https://img.shields.io/static/v1?label=bootstrap&message=4.5.0&color=orange)](https://getbootstrap.com)
 [![JQUERY](https://img.shields.io/static/v1?label=jquery&message=3.5.1&color=yellow)](https://blog.jquery.com/2020/05/04/jquery-3-5-1-released-fixing-a-regression)
