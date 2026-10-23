@@ -37,7 +37,7 @@ Hereby listed manual way to setup:-
    - Clone the code-
 
      ```
-     git clone https://github.com/abhinav20001/Skillgrow.git
+     git clone https://github.com/nakshatrameena/Skillgrow.git
      cd Skillgrow
      ```
 
